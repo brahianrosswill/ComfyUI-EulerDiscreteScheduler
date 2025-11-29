@@ -32,15 +32,6 @@ Custom node that exposes all parameters of the FlowMatchEulerDiscreteScheduler. 
 2. Connect its SIGMAS output to **SamplerCustom** node's sigmas input
 3. Adjust parameters to control the sampling behavior
 
-## Example Workflow
-
-```
-Model -> SamplerCustom
-         ^ 
-         |
-         FlowMatch Euler Scheduler (steps=30, use_karras_sigmas=True)
-```
-
 ## Tech bits:
 - https://huggingface.co/docs/diffusers/api/schedulers/flow_match_euler_discrete
 - https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/blob/main/scheduler/scheduler_config.json
