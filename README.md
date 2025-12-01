@@ -58,7 +58,9 @@ More examples:
 - remove bad practice of forking diffusers install on error (requirements.txt and does not rollback your diffusers if available)
 
 **1.0.4**
-add start and end step by Etupa, with some fixes
+- add start and end step by Etupa, with some fixes (can be used for image to image or restart sampling)
+<img width="2880" height="960" alt="image" src="https://github.com/user-attachments/assets/17a36cbb-4477-4119-a367-d6b1a8cde512" />
+
 
 **1.0.3**
 
