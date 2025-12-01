@@ -59,7 +59,8 @@ More examples:
 
 **1.0.4**
 - add start and end step by Etupa, with some fixes (can be used for image to image or restart sampling)
-<img width="2880" height="960" alt="image" src="https://github.com/user-attachments/assets/17a36cbb-4477-4119-a367-d6b1a8cde512" />
+<img width="2880" height="960" alt="node_unknown" src="https://github.com/user-attachments/assets/247cb5ab-241f-43ce-b9d4-61c56ccb3711" />
+
 
 
 **1.0.3**
